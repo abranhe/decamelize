@@ -31,7 +31,7 @@ $ pip install decamelize
 import decamelize
 
 print (decamelize.convert("CamelCase"))
-# Eg: unicornRainbow → unicorn_rainbow
+# Eg: CamelCase → camel_case
 ```
 
 # Team
