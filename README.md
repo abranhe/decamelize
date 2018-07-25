@@ -42,7 +42,7 @@ print (decamelize.convert("CamelCase"))
 
 # Related
 
-- [🐫 To Camel Case](https://github.com/abranhe/tocamelcase): ~~camelize `snake_case`~~  turn into camel case
+- [🐫 ToCamelCase](https://github.com/abranhe/tocamelcase): ~~camelize string~~  turn into `camel case`
 
 # License
 

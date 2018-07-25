@@ -8,7 +8,7 @@ setuptools.setup(
     packages = ["decamelize"],
     long_description = long_description,
     long_description_content_type = "text/markdown",
-    version = "0.1.1",
+    version = "0.1.2",
     description = "🐍  Convert a camelized string into snake_case",
     author = "Carlos Abraham",
     author_email = "abraham@abranhe.com",
