@@ -1,6 +1,6 @@
 
 <p align="center">
-	🐍  <i><a href="https://pypi.org/project/decamelize">decamelize</a></i>: Convert a camelized string into `snake_case`
+	🐍  <i><a href="https://pypi.org/project/decamelize"><b>decamelize</b></a></i>: Convert a camelized string into `snake_case`
 </p>
 
 <p align="center">
@@ -46,4 +46,4 @@ print (decamelize.convert("CamelCase"))
 
 # License
 
-[MIT](https://github.com/abranhe/decamelize/blob/master/LICENSE) License © [Carlos Abraham](https://github.com/decamelize/tocamelcase)
+[MIT](https://github.com/abranhe/decamelize/blob/master/LICENSE) License © [Carlos Abraham](https://github.com/abranhe/decamelize)
